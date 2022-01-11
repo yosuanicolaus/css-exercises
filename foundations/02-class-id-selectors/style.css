@@ -1,4 +1,20 @@
-p{
+.odd {
     background-color: pink;
-    
+    font-family: Verdana, sans-serif;
+}
+
+/*second element*/
+#one {
+    font-size: 36px;
+    color: blue;
+}
+
+.odd.cool {
+    font-size: 24px;
+}
+
+#another{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
